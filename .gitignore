@@ -52,4 +52,4 @@ analysis_options.yaml
 dags.iml
 pubspec.lock
 test/
-.user_shared/
+._user_shared/
