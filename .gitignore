@@ -51,3 +51,5 @@ windows/
 analysis_options.yaml
 dags.iml
 pubspec.lock
+.user_shared/
+
